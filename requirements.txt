@@ -1,4 +1,6 @@
 streamlit
 pandas
 numpy
+numpy-financial
 python-dateutil
+matplotlib
